@@ -17,7 +17,7 @@ This package supports MySQL v8, MySQL v5.7, and MariaDB v10.
 You can install the package via composer:
 
 ```bash
-composer require matanyadaev/laravel-eloquent-spatial
+composer require pythonfire/laravel-eloquent-spatial
 ```
 
 ## Quickstart
